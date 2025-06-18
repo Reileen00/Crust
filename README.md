@@ -1,2 +1,2 @@
 # Crust
-Learning Crust from Tsoding
+Learning Rust from Tsoding
